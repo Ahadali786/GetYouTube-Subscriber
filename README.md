@@ -46,13 +46,13 @@ Use Postman or thunder client to add new subscribers, Update or Delete subscribe
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Ahadali786/GetYouTube-Subscriber.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Get-Youtube-Subscribers
+  cd GetYoutube-Subscribers
 ```
 
 Install dependencies
