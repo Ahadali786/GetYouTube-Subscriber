@@ -4,7 +4,7 @@ It is used to do create,read,update and delete operations of Youtube Subscribers
 
 ## Demo
 
-
+https://drive.google.com/file/d/1NqBcrmq-EKgYH7PXerMAD1nJeCV3lGEJ/view?usp=sharing
 
 ## Technologies that are used in this project.
   <ul>
@@ -31,7 +31,7 @@ It is used to do create,read,update and delete operations of Youtube Subscribers
 ## Deployment
 
 The app has been deployed on 
-
+ https://get-youtube-subscribers-new.vercel.app/subscribers
 
 
 ## FAQ
